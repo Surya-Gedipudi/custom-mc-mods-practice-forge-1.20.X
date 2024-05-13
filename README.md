@@ -1,3 +1,10 @@
 # Custom Mods Tutorial
-### Added the following items: Sapphire, Raw Sapphire, Ender Sword, Forge Logo
-### Added a "Custom Mods" tab in the creative mode tabs; Forge Logo is the icon for the "Custom Mods" tab
+## This repository contains the following:
+#### Items: 
+- Sapphire
+- Raw Sapphire
+- Ender Sword
+- Forge Logo
+#### "Custom Mods" tab in the creative mode tabs
+- Displays all custom mods (items, blocks, mobs, etc.)
+- Forge Logo is the icon for the "Custom Mods" tab
