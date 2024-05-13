@@ -1,4 +1,5 @@
-# Custom Mods Tutorial
+# Custom Mods for Minecraft Java Edition - Practice for myself
+## Made by Surya Gedipudi
 ## This repository contains the following:
 #### Items: 
 - Sapphire
