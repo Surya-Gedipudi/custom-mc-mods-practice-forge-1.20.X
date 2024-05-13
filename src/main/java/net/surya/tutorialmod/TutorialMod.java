@@ -46,8 +46,10 @@ public class TutorialMod
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS)
         {
+            event.accept(ModItems.FORGE_ICON);
             event.accept(ModItems.SAPPHIRE);
             event.accept(ModItems.RAW_SAPPHIRE);
+            event.accept(ModItems.ENDER_SWORD);
         }
     }
 

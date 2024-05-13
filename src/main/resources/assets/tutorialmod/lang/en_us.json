@@ -1,6 +1,8 @@
 {
+  "item.tutorialmod.forge_icon": "Forge Icon",
   "item.tutorialmod.sapphire": "Sapphire",
   "item.tutorialmod.raw_sapphire": "Raw Sapphire",
+  "item.tutorialmod.ender_sword": "Ender Sword",
 
   "creativetab.tutorial_tab": "Custom Mods"
 }
